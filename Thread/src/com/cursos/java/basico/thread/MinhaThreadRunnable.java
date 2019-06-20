@@ -23,6 +23,7 @@ public class MinhaThreadRunnable implements Runnable{
 			e.printStackTrace();
 		}
 		System.out.println(nome + " terminou a execução ");
+		System.out.println("Gabriela Git");
 		
 	}
 	
